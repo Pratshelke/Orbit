@@ -4,7 +4,11 @@ An offline personal tracking app for Android. It builds a picture of your money 
 
 > This is a showcase repository. The source code is private; a walkthrough is available on request.
 
-<!-- Screenshots: add 3-4 images here, taken with demo data only -->
+## Screenshots
+
+<p><img src="screenshots/home.png" width="200" alt="home screen"> <img src="screenshots/money.png" width="200" alt="money screen"> <img src="screenshots/activity.png" width="200" alt="activity screen"> <img src="screenshots/planner.png" width="200" alt="planner screen"> </p>
+
+All screens show sample data.
 
 ## What it does
 
